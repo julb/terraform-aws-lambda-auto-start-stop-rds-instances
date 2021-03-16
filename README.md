@@ -7,10 +7,11 @@ This module enables to stop or start RDS clusters and RDS instances at the time 
 
 See related modules:
 
-- [julb/terraform-aws-lambda-auto-start-stop-ec2-instances](https://github.com/terraform-aws-lambda-auto-start-stop-ec2-instances)
-- [julb/terraform-aws-lambda-auto-start-stop-ec2-autoscalinggroups](https://github.com/terraform-aws-lambda-auto-start-stop-ec2-autoscalinggroups)
-- [julb/terraform-aws-lambda-auto-start-stop-rds-instances](https://github.com/terraform-aws-lambda-auto-start-stop-rds-instances)
-- [julb/terraform-aws-lambda-auto-start-stop-cloudwatch-alarms](https://github.com/terraform-aws-lambda-auto-start-stop-cloudwatch-alarms)
+- [julb/terraform-aws-lambda-auto-start-stop-ec2-instances](https://github.com/julb/terraform-aws-lambda-auto-start-stop-ec2-instances)
+- [julb/terraform-aws-lambda-auto-start-stop-ec2-autoscalinggroups](https://github.com/julb/terraform-aws-lambda-auto-start-stop-ec2-autoscalinggroups)
+- [julb/terraform-aws-lambda-auto-start-stop-rds-instances](https://github.com/julb/terraform-aws-lambda-auto-start-stop-rds-instances)
+- [julb/terraform-aws-lambda-auto-start-stop-cloudwatch-alarms](https://github.com/julb/terraform-aws-lambda-auto-start-stop-cloudwatch-alarms)
+
 
 ## Usage
 
