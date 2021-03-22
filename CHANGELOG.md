@@ -1,8 +1,16 @@
 # Changelog
 
+## [1.0.1](https://github.com/julb/terraform-aws-lambda-auto-start-stop-rds-instances/tree/1.0.1) (2021-03-22)
+
+[Full Changelog](https://github.com/julb/terraform-aws-lambda-auto-start-stop-rds-instances/compare/1.0.0...1.0.1)
+
+**Merged pull requests:**
+
+- Add missing tags on IAM role and Lambda. [\#2](https://github.com/julb/terraform-aws-lambda-auto-start-stop-rds-instances/pull/2) ([julb](https://github.com/julb))
+
 ## [1.0.0](https://github.com/julb/terraform-aws-lambda-auto-start-stop-rds-instances/tree/1.0.0) (2021-03-16)
 
-[Full Changelog](https://github.com/julb/terraform-aws-lambda-auto-start-stop-rds-instances/compare/27a40be0058ca7d93a570ffd6aeeb2ae50bb98dc...1.0.0)
+[Full Changelog](https://github.com/julb/terraform-aws-lambda-auto-start-stop-rds-instances/compare/latest...1.0.0)
 
 **Merged pull requests:**
 
